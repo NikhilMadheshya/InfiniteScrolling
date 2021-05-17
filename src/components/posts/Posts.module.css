@@ -1,0 +1,17 @@
+.postContainer{
+    margin:10px auto;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.postTitle{
+    text-align: center;
+    background: ghostwhite;
+    width: 100%;
+    padding: 10px 0;
+    position: sticky;
+    top:0;
+}

@@ -1,0 +1,30 @@
+
+
+.post{
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 10px 15px #0001;
+    margin: 20px 0;
+}
+
+.postTitle{
+    margin-bottom: 10px;
+    display: flex; align-items: center;
+    flex-wrap: wrap;
+   
+
+}
+.postTitle span{
+    height: 2rem; width: 2rem;
+    background: seagreen;
+    color: #fff;
+    border-radius: 50%;
+    line-height: 2rem;
+    text-align: center;
+    margin-right: 5px;
+}
+.postBody{
+ font-size: 1.5rem;
+ line-height: 2rem;
+ text-align: justify;
+}
